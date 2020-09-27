@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView android:id="@+id/item_name"
+    android:padding="30dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Four"
+    android:textSize="24sp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
